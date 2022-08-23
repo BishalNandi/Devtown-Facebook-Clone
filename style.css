@@ -259,11 +259,11 @@ footer{
         top: 20px;
     }
 
-    #card1{
+    #card-1{
         margin-right: 5px;
     }
 
-    card-2{
+    #card-2{
         margin-left: 5px;
         margin-right: 0;
     }
@@ -277,7 +277,7 @@ footer{
     }
 
     #recent-logins, #login{
-        position: absolute;
+        position: relative;
     }
 
     footer{
